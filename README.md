@@ -13,8 +13,6 @@ Breakout with microSD socket and level shifter.
 
 
 ## Hardware and Software
-* [Schematics + Layout](https://github.com/watterott/mSD-Breakout/tree/master/hardware)
-
 * Arduino Connection (IDE Example Sketches: ```File->Examples->SD```):
     ```
     Uno -> Breakout
